@@ -1,5 +1,5 @@
 #pic {
-  height: 10px;
+  height: 500px;
   width: 300px;
   display: block;
   position: relative;
@@ -7,3 +7,11 @@
   box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 14%;
 }
+
+h1 {
+    color: #303030;
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    font-family: "Righteous", sans-serif;
+  }
