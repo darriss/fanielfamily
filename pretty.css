@@ -20,6 +20,16 @@ h1 {
     background: linear-gradient(to bottom, #ffffff 0%, #ff99ff 100%);
   }
 
+  #meninfam {
+    height: 400px;
+    width: 300px;
+    display: block;
+    position: relative;
+    left: 200px;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 14%;
+  }
+
   /*Styling for the navigation bar*/
 .navbar{
     position: fixed;
