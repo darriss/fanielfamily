@@ -13,8 +13,10 @@
     text-align: center;
     font-size: 80px;
     font-family: "Meow Script", cursive;
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: white;
   }
 
   body {
